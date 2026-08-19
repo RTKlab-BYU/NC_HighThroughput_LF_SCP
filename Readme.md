@@ -22,7 +22,7 @@ No non-standard hardware is required.
 The scripts can be run on a normal desktop or laptop computer.
 
 Tested operating system: Window 10/11
-Tested Python version:3.11.9
+Tested Python version:3.10.11
 
 Required Python packages are listed in: requirements.txt
 
